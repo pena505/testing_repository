@@ -22,9 +22,7 @@
 		 edad: <input name="edad" id="edad" type="search"></input>
 		</tr>
 		
-		<tr>
-		 Correo: <input name="correo" id="correo" type="search"></input>
-		</tr>
+		
 			
 		<tr>
 			<button type='submit'>enviar</button>	
