@@ -7,9 +7,13 @@
 <title>Insert title here</title>
 </head>
 <body>
+<style>
+style="color:DodgerBlue;
+
+</style>
 <form action="/PrimerProyecto/PruebaServlet">	
    <p>
-        Nombre: <input type="text" name="name_control" autofocus required />
+        Nombre: <input type="text" name="name_control"  autofocus required  />
    <br />
         apellido: <input type="text" name="name_control" autofocus required />
    <br />
